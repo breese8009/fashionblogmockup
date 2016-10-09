@@ -1,0 +1,162 @@
+h1 {
+	color:red;
+}
+
+h1 small {
+	color:gray;
+	font-size:12px;
+	font-style:italic;
+}
+
+
+.menu {
+		border:#000 1px solid;
+		width:600px;
+		overflow:hidden;
+
+	
+}
+
+.col-2 {
+	box-sizing:border-box;
+	width:16.66666%;
+	border:#000 1px solid;
+	overflow:hidden;
+	float:left;
+	text-align:center;
+	color:white;
+	background-color:black;
+	border-left:#fff 1px solid;
+	padding:10px 10px 10px 10px;
+}
+
+h3 {
+	color:gray;
+
+	
+}
+
+.left-side p {
+	color:gray;
+	font-size:12px;
+}
+
+
+.article-container {
+	float:left;
+	
+}
+
+
+.left-side {
+	width:66.666666%;
+	float:left;
+	box-sizing: border-box;
+
+}
+
+.right-side {
+	width:33.33333%;
+	float:left;
+	box-sizing: border-box;
+	padding-top:25px;
+	padding-left:20px;
+
+
+}
+
+.img1 {
+	width:100%;
+}
+
+.right-side p {
+	color:gray;
+	font-size:12px;
+}
+
+
+
+.left-side strong {
+	text-align:right;
+	padding-top:10px;
+	color:red;
+
+}
+
+.line {
+	border:gray .7px solid;
+	width:100%;
+}
+
+.line2 {
+	border:gray .7px solid;
+	width:100%;
+
+}
+
+.adbox {
+	border:#000 1px solid;
+	height:175px;
+	width:100%;
+	background-color:gray;
+	margin:20px 20px 20px 0px;
+}
+
+.adbox h4 {
+	text-align:center;
+	font-size:45px;
+}
+
+.adbox h6 {
+	color:gray;
+}
+
+.continue {
+	padding-left:400px;
+	font-size:12px;
+
+
+}
+
+.more {
+	padding-left:150px;
+	font-color:red;
+
+
+}
+
+.line3 {
+	border:gray .7px solid;
+	width:100%;
+}
+
+.line4 {
+	border:gray .7px solid;
+	width:100%;
+}
+
+.rightside-li {
+	color:red;
+	font-size:12px;
+}
+
+.bottom-menu li {
+	display:inline;
+	width:100%;
+	font-size:10px;
+	border-right:black 1px solid;
+	padding-right:5px;
+	color:red;
+
+}
+
+.date {
+	margin-top:80px;
+}
+
+.more {
+	color:red;
+}
+
+
+
